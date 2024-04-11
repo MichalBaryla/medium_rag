@@ -14,14 +14,13 @@ pip install -r requirements.txt
 ```
 
 ## Requirements
-
-Tensorflow == 2.15.0
-Pytorch == 2.2.1+cu121
-Python >= 3.9
-Transformers >= 4.34.0
+* Tensorflow == 2.15.0
+* Pytorch == 2.2.1+cu121
+* Python >= 3.9
+* Transformers >= 4.34.0
 
 
 ## Usage
 
 For llamaindex1(1).ipynb and finetune_embedding.ipynb I used Google Collab with GPU T4.
-Notebook gemma-generation-v2.ipynb was setting on 
+Notebook gemma-generation-v2.ipynb was used on kaggle. 
