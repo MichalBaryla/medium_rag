@@ -4,8 +4,7 @@
 
 Retrieval-Augmented Generation (RAG) is the process of optimizing the output of a large language model, 
 so it references an authoritative knowledge base outside of its training data sources before 
-generating a responseCycles are important for agent-like behaviors, where you call an LLM in a loop,
-asking it what action to take next.
+generating a response.
 
 ## Installation
 
