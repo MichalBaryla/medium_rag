@@ -4,7 +4,8 @@
 
 Retrieval-Augmented Generation (RAG) in this repository is build with Llama Index framework.
 LLM used is a [TinyLlama/TinyLlama-1.1B-Chat-v1.0](https://huggingface.co/TinyLlama/TinyLlama-1.1B-Chat-v1.0).
-BAAI retriever is a [BAAI/bge-small-en-v1.5](https://huggingface.co/BAAI/bge-small-en-v1.5) model 
+BAAI retriever is a [BAAI/bge-small-en-v1.5](https://huggingface.co/BAAI/bge-small-en-v1.5).
+Vector store is a Chroma
 
 ## Installation
 
