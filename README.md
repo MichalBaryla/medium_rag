@@ -25,5 +25,5 @@ pip install -r requirements.txt
 For llamaindex1(1).ipynb and finetune_embedding.ipynb I used Google Collab with GPU T4.
 Notebook gemma-generation-v2.ipynb was used on kaggle. 
 
-# Disclaimer
+## Disclaimer
 For some reasons github had some problems with llamaindex(1).ipynb outputs so I had to clear them. If you want to see them donwload previous version of llamaindex(1).ipynb localy  
